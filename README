@@ -1,1 +1,20 @@
-Sample text.
+Projeto para trabalho de GCS utilizando Travis e Node.
+
+Requisitos:
+
+Node na versão 10.16.0
+Git
+Npm
+
+Instalando o Node:
+
+https://github.com/nvm-sh/nvm
+
+Rodar um dos seguintes comandos no terminal(no Linux, se for no Windows, instalar do site):
+
+- curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+- wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+
+Depois, rodar:
+
+nvm install 10.16.0
