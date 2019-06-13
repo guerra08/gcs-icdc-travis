@@ -1,2 +1,0 @@
-language: python: 2.7
-script: python forca.py
